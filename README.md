@@ -61,7 +61,7 @@ Sigue estos pasos para correr la aplicación en tu máquina:
 1.  **Clonar el repositorio**
 
     ``` bash
-    git clone https://github.com/TU_USUARIO/hello-world.git
+    git clone https://github.com/davidrumbaut620/Coolify-Python-test-app-.git
     cd hello-world
     ```
 
